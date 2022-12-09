@@ -1,8 +1,12 @@
-- 👋 Hi, I’m @charm0322
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+
+Here is My portfolio
+
+Tech stack used -
+
+HTML
+JavaScript
+Css
+here all about my details and work.
 
 <!---
 charm0322/charm0322 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
